@@ -1,0 +1,2 @@
+-> If we add X-Forwarded-For: 127.0.0.1 header then front end will overwrite with our ip but we can do by desync attack.
+Also we can add burp collaborator in the X-Forwarded-For: header , then server will may be dns lookup for domain. we can confirm the attack.

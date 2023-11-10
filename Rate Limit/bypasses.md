@@ -1,0 +1,1 @@
+-> Append null parameter "%00"  to the request parameter value. For example -> Username=usertest%00

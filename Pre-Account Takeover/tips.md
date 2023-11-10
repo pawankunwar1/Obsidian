@@ -1,0 +1,1 @@
+1) First create account with victim gmail -> server sends confirmation links to victim. But if victim sign up with Oauth of google , facebook, and other services and uses same email. If as an attacker i can login into that account without verfied -> ac takeover

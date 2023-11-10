@@ -1,0 +1,1 @@
+1) ROT13(rotate by 13 places) -> same algorithm for encrypt and decrypt i.e A -> N

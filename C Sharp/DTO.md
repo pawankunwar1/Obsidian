@@ -1,0 +1,2 @@
+-> Data Transfer Object
+-> It is the actual contract thats going to be enabled between the client and server.

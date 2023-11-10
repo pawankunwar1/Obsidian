@@ -1,0 +1,1 @@
+-> to install php -> `sudo apt install -y php php-mysql libapache2-mod-php`

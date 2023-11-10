@@ -1,0 +1,1 @@
+--> curl -v -X OPTIONS `example.com` -> if it returns TRACE method if website use it.

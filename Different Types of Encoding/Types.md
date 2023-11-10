@@ -1,0 +1,9 @@
+-> URL Encode
+-> Double URL Encode
+-> UTF-8 (2 bytes)
+-> UTF-8 (Java style)
+-> UTF-7 encoding
+-> HTML Entity
+-> HTML Entity number
+-> Unicode URL Encode
+-> Using Mangled paths

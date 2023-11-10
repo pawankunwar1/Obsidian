@@ -1,0 +1,3 @@
+-> In rfi we if -> `http://a.com` or `htttps://b.com` are blocked then we can do -> `//a.com` or `httP` or `HTTP` or `HTTp`
+
+->Remote File Inclusion (RFI) is a technique to include remote files and into a vulnerable application. Like LFI, the RFI occurs when improperly sanitizing user input, allowing an attacker to inject an external URL into include function. One requirement for RFI is that the allow_url_fopen option needs to be on.

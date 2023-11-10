@@ -1,0 +1,4 @@
+-> Every collection class implements 3 interfaces -> a)IENUMERABLE b) ICOLLECTION c) ILIST or IDICTIONARY
+-> List , Array , Array List implements Ienumerable , Icollection and Ilist but Dictionary and hash table implements ienumerbale  , icollection and iDictionary.
+-> Every collection class have parent interfaces like 3 above  and each interfaces have abstract method `GetEnumberator()`which return type is `IEnumerator interface` so that we can used forech() loop
+-> Both Generic and non-generic class collection implements IEnumerable.

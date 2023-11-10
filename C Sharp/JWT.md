@@ -1,0 +1,1 @@
+-> nuget package -> `Microsoft.AspNetCore.Authentication.JwtBearer
